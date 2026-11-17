@@ -1,0 +1,38 @@
+
+# Employee Performance Dashboard
+
+## Project Overview
+This project uses Microsoft Excel to analyse employee attendance, performance scores and completed tasks.
+
+The dashboard helps management monitor employee performance and compare results across departments.
+
+## Tools Used
+- Microsoft Excel
+- Excel formulas
+- Conditional Formatting
+- Data Validation
+- Charts and dashboards
+
+## Excel Skills Demonstrated
+- IF and COUNTIF
+- AVERAGE and AVERAGEIF
+- MAX and MIN
+- Data cleaning and validation
+- KPI calculations
+- Department performance analysis
+- Dashboard visualisation
+
+## Dashboard KPIs
+- Total Employees: 15
+- Average Attendance: 80.47%
+- Average Performance: 72.93
+- Employees Passing: 9
+- Employees Needing Support: 6
+
+## Project Sheets
+1. Employee_Data
+2. Performance_Summary
+3. Dashboard
+
+## Learning Outcome
+Developed practical Excel skills in data analysis, reporting and dashboard creation.
